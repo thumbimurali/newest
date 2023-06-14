@@ -1,0 +1,21 @@
+{
+  "name": "newest",
+  "type": "package",
+  "blockId": "0_-s-lbw45NdkOAWuxk7e",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_newest"
+  },
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "newestchild": {
+      "directory": "newestchild"
+    }
+  }
+}
