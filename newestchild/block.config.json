@@ -3,8 +3,8 @@
   "name": "newestchild",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/thumbimurali/newest.git",
+    "ssh": "git@github.com:thumbimurali/newest.git",
     "branch": "block_newestchild"
   },
   "parentBlockIDs": [

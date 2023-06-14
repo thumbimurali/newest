@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "0_-s-lbw45NdkOAWuxk7e",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/thumbimurali/newest.git",
+    "ssh": "git@github.com:thumbimurali/newest.git",
     "branch": "block_newest"
   },
   "parentBlockIDs": [],
