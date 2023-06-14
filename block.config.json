@@ -1,0 +1,20 @@
+{
+  "blockId": "M5HItfBO1tRaVYtX_cgQX",
+  "name": "newestchild",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/thumbimurali/newest.git",
+    "ssh": "git@github.com:thumbimurali/newest.git",
+    "branch": "block_newestchild"
+  },
+  "parentBlockIDs": [
+    "0_-s-lbw45NdkOAWuxk7e"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "node index.js"
+}
