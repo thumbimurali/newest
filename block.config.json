@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "newestchild": {
-      "directory": "newestchild"
+      "directory": "newestchild",
+      "versionId": "00UYQZacFSSsZ-wrrlB3c",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "LNIiuKj-VpDi9zhLwMBFE"
 }
